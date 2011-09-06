@@ -1,0 +1,1 @@
+This is a very rough draft of an image-stitching tool.  Currently it uses the OpenCV SURF implementation to perform image-to-image registration. 

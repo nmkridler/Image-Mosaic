@@ -1,0 +1,6 @@
+inFile /home/nick/opencvtest/mosaic/data/CIMG0133.jpg
+inFile /home/nick/opencvtest/mosaic/data/CIMG0134.jpg
+inFile /home/nick/opencvtest/mosaic/data/CIMG0135.jpg
+inFile /home/nick/opencvtest/mosaic/data/CIMG0136.jpg
+inFile /home/nick/opencvtest/mosaic/data/CIMG0137.jpg
+outFile "result.png"
